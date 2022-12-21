@@ -1,2 +1,2 @@
 # My_first_R
-Just try this first post in github
+My first public post in this github.\n describe about using emojifont 'package' and R scripts for Chrismas.
